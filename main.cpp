@@ -1,8 +1,10 @@
 #include <iostream>
-
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
-
-int main(int argc, char** argv) {
-	std::cout<<"Good luck to you";
-	return 0;
+#include "Sort.h"
+#include "MergeSort.h"
+using namespace std;
+int main()
+{
+    cout << "Hello world!" << endl;
+    MergeSort  obj;
+    return 0;
 }

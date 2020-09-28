@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1601320367 source:c:\study_material\algorithm\git\practice\programmingpractice\main.cpp
+	<iostream>
+	"Sort.h"
+	"MergeSort.h"
+
+1601313563 c:\study_material\algorithm\git\practice\programmingpractice\include\sort.h
+	<iostream>
+	<vector>
+
+1601318648 source:c:\study_material\algorithm\git\practice\programmingpractice\src\sort.cpp
+	"Sort.h"
+
+1601317633 source:c:\study_material\algorithm\git\practice\programmingpractice\src\mergesort.cpp
+	"MergeSort.h"
+
+1601320360 c:\study_material\algorithm\git\practice\programmingpractice\include\mergesort.h
+	<Sort.h>
+	<vector>
+
